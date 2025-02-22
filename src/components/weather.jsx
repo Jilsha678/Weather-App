@@ -46,7 +46,7 @@ function Weather() {
             })
         }
         catch (error) {
-            // console.log(err)
+            console.log(err)
         }
     }
     useEffect(() => {
